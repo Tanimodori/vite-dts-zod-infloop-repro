@@ -1,0 +1,13 @@
+{
+  "name": "vite-dts-zod-infloop-repro",
+  "version": "0.1.0",
+  "description": "Reproduction for issue zod#1955",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TMR",
+  "license": "MIT",
+  "private": true
+}
